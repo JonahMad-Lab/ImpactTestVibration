@@ -34,6 +34,7 @@ This MATLAB script is designed to process and analyze Frequency Response Functio
   - Limits:
     - `xlim([0 200])`: Frequency range
     - `ylim([10^-2 10^2])`: Amplitude range
+![alt text](https://github.com/JonahMad-Lab/ImpactTestVibration/blob/main/PLA4.png?raw=true)
 
 ## CSV Output Format
 | Response_ID | Frequency_at_Max_Amplitude_Hz | Max_Amplitude_g_N |
